@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/xuanyan0x7c7/koa-ejs#readme",
   "dependencies": {
+    "co": "^4.6.0",
     "ejs": "^2.4.1",
     "thunkify": "^2.1.2"
   },
